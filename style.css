@@ -1,0 +1,21 @@
+h1 {
+  text-emphasis-color: #84482d;
+  text-align: center;
+}
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  text-emphasis-color: #1c1d1f;
+}
+
+div {
+  display: flex;
+  justify-content: space-around;
+  border: 2px solid #be6841;
+  padding: 20px;
+}
+
+img {
+  width: 150px;
+  margin: 10px;
+}
